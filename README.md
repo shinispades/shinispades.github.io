@@ -1,0 +1,2 @@
+# shinispades.github.io
+applications
